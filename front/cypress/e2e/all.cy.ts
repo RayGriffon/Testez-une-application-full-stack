@@ -1,0 +1,6 @@
+import './details.cy'
+import './edit.cy'
+import './login.cy'
+import './me.cy'
+import './register.cy'
+import './session.cy'

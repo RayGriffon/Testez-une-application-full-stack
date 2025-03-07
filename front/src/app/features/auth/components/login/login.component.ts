@@ -27,7 +27,8 @@ export class LoginComponent {
       '',
       [
         Validators.required,
-        Validators.min(3)
+        Validators.minLength(3)
+        //Validators.min(3)
       ]
     ]
   });

@@ -83,7 +83,7 @@ for following change:
 
 Generate test : 
 
-mvn clean test
+> mvn clean test
 
 Open coverage Jacoco : 
 

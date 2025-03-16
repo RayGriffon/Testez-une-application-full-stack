@@ -74,8 +74,8 @@ Coverage :
 for following change:
 
 > npm run test:watch
->
-> Report is available here:
+
+ Report is available here:
 
 > front/jest/coverage/lcov-report/index.html
 

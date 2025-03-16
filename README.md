@@ -75,4 +75,4 @@ for following change:
 
 Open coverage Jacoco : 
 
-> Back/Target/site/jacoco/index.html  sur un navigateur
+> back/target/site/jacoco/index.html  sur un navigateur

@@ -66,6 +66,7 @@ Report is available here:
 Launching test:
 
 > npm run test
+
 > node_modules/.bin/jest
 
 Coverage : 

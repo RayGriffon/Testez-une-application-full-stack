@@ -73,6 +73,10 @@ for following change:
 
 #### Back test
 
+Generate test : 
+
+Launch yoga-app [clean, test]
+
 Open coverage Jacoco : 
 
 > back/target/site/jacoco/index.html  sur un navigateur

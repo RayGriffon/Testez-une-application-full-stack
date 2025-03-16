@@ -67,21 +67,23 @@ Launching test:
 
 > npm run test
 
-> node_modules/.bin/jest
-
 Coverage : 
 
-> node_modules/.bin/jest
+> node_modules/.bin/jest --coverage
  
 for following change:
 
 > npm run test:watch
+>
+> Report is available here:
+
+> front/jest/coverage/lcov-report/index.html
 
 #### Back test
 
 Generate test : 
 
-Launch yoga-app [clean, test]
+mvn clean test
 
 Open coverage Jacoco : 
 

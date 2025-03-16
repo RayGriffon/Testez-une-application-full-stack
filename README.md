@@ -66,7 +66,12 @@ Report is available here:
 Launching test:
 
 > npm run test
+> node_modules/.bin/jest
 
+Coverage : 
+
+> node_modules/.bin/jest
+ 
 for following change:
 
 > npm run test:watch
